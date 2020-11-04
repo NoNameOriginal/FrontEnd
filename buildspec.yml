@@ -9,7 +9,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Compiling the dist folder
-      - npm run-script build
+      - npm run-script build-prod
   post_build:
     commands:
       - echo Build completed on `date`
@@ -17,6 +17,6 @@ phases:
 artifacts:
   files:
     - package.json
-    - src/**/*
-    - public/**/*
-    - node_modules/**/*
+    - src/*
+    - public/*
+    - node_modules/*
