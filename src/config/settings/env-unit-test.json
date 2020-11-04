@@ -13,6 +13,7 @@
     "isEnabled": true
   },
   "services": {
-    "root": "https://govcarpetaapp.mybluemix.net/apis"
+    "root": "https://govcarpetaapp.mybluemix.net/apis",
+    "fileSystemUrl": "https://govcarpetaapp.mybluemix.net/apis"
   }
 }
