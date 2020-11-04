@@ -13,3 +13,9 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
+artifacts:
+  files:
+    - package.json
+    - src/**/*
+    - public/**/*
+    - node_modules/**/* 
