@@ -25,7 +25,6 @@ const LoginPage = ({
             const { identification } = state;
             userProps
                 .onLogin(identification.value).then( (res) => {
-                    console.log(res);
                     if(res.status === 200){
                         globalUI.navigateToUrl('/home')
                     }
@@ -48,6 +47,10 @@ const LoginPage = ({
                     name: nameRegister.value,
                     address: addressRegister.value,
                     email: emailRegister.value
+                }).then( (res) => {
+                    if(res.status === 201){
+                        globalUI.navigateToUrl('/home')
+                    }
                 });
         } else {
             onChange({

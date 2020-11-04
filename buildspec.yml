@@ -18,5 +18,5 @@ artifacts:
   files:
     - package.json
     - src/**/*
-    - publi/**/*
+    - public/**/*
     - node_modules/**/*
