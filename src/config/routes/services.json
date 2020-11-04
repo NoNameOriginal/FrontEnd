@@ -1,0 +1,5 @@
+{
+  "validateCitizen": "{root}/validateCitizen/",
+  "registerCitizen": "{root}/registerCitizen/",
+  "authenticateDocument": "{root}/authenticateDocument/{0}/{1}/{2}"
+}

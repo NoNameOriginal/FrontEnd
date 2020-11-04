@@ -1,0 +1,66 @@
+{
+  "appName": "Los Componentes",
+  "common": {
+    "errorBoundary": "Algo salió mal, por favor intenta de nuevo."
+  },
+  "homePage": {
+    "content": "Página principal"
+  },
+  "loginPage": {
+    "continue": "Continuar",
+    "register": "Registrar ",
+    "formTitle": "Iniciar sesión",
+    "registerTitle": "Registro+",
+    "invalidCredentials": "Usuario o contraseña inválida",
+    "keepSessionAlive": "Mantenerse conectado",
+    "password": "Contraseña",
+    "recoverPassword": "¿Olvidó su contraseña?",
+    "loginLabel": "Ingresa tu identificacion ",
+    "registerLabel": "Tu identificacion no fue encontrada, registra tu informacion",
+    "userLabel": "Identificacion",
+    "userPlaceholder": "000000000",
+    "nameRegisterLabel": "Nombre",
+    "nameRegisterPlaceholder": "nombre",
+    "addressRegisterLabel": "Dirrecion",
+    "addressRegisterPlaceholder": "Cra 54 # 45 - 67",
+    "emailRegisterLabel": "Email",
+    "emailRegisterPlaceholder": "name@email.com",
+    "welcomeToReact": "Bienvenido a GovCarpet"
+  },
+  "masterData": {},
+  "menu": {
+    "home": "Inicio",
+    "login": "Cerrar sesión",
+    "settings": "Configuración"
+  },
+  "modalDialog": {
+    "cancel": "Cancelar",
+    "msg": "¿Seguro que desea realizar esta acción?",
+    "ok": "Aceptar",
+    "title": "Confirmación"
+  },
+  "notFoundPage": {
+    "content": "Error 404, página no encontrada."
+  },
+  "settingsPage": {
+    "language": "Lenguaje"
+  },
+  "topBar": {
+    "collapse": "Colapsar",
+    "expand": "Expandir",
+    "profile": "Mi perfil"
+  },
+  "validations": {
+    "date": "Fecha inválida",
+    "email": "Email inválido",
+    "maxValue": "Valor máximo: {0}",
+    "minCharacters": "Ingrese al menos {0} caracteres",
+    "minValue": "Valor mínimo: {0}",
+    "number": "Número inválido",
+    "phone": "Teléfono inválido",
+    "required": "Campo requerido",
+    "search": "Búsqueda inválida",
+    "verification": "La verificación no coincide",
+    "zip": "Código de área inválido"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "environment": {
+    "name": "local"
+  },
+  "services": {
+    "root": "https://govcarpetaapp.mybluemix.net/apis",
+    "fileSystemUrl": "https://govcarpetaapp.mybluemix.net/apis"
+  }
+  
+}

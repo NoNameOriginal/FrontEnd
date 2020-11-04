@@ -1,0 +1,66 @@
+{
+  "appName": "react-base-line-boilerplate",
+  "common": {
+    "errorBoundary": "Something went wrong, please try again."
+  },
+  "homePage": {
+    "content": "Home Page"
+  },
+  "loginPage": {
+    "continue": "Continue",
+    "register": "Register ",
+    "formTitle": "Login",
+    "registerTitle": "Register",
+    "invalidCredentials": "Invalid user name or password",
+    "keepSessionAlive": "Keep session alive",
+    "password": "Password",
+    "recoverPassword": "Forgotten password?",
+    "loginLabel": "Put your identification",
+    "registerLabel": "Your identification was not found, register your data",
+    "userLabel": "Identification",
+    "userPlaceholder": "000000000",
+    "nameRegisterLabel": "Name",
+    "nameRegisterPlaceholder": "name",
+    "addressRegisterLabel": "Address",
+    "addressRegisterPlaceholder": "Cra 54 # 45 - 67",
+    "emailRegisterLabel": "Email",
+    "emailRegisterPlaceholder": "name@email.com",
+    "welcomeToReact": "Welcome to GovCarpet"
+  },
+  "masterData": {},
+  "menu": {
+    "home": "Home",
+    "login": "Logout",
+    "settings": "Settings"
+  },
+  "modalDialog": {
+    "cancel": "Cancel",
+    "msg": "Are you sure you want to perform this action?",
+    "ok": "Ok",
+    "title": "Confirm"
+  },
+  "notFoundPage": {
+    "content": "Error 404, page not found."
+  },
+  "settingsPage": {
+    "language": "Language"
+  },
+  "topBar": {
+    "collapse": "Collapse",
+    "expand": "Expand",
+    "profile": "My profile"
+  },
+  "validations": {
+    "date": "Invalid date",
+    "email": "Invalid email",
+    "maxValue": "Max value: {0}",
+    "minCharacters": "Expected at least {0} characters",
+    "minValue": "Min value: {0}",
+    "number": "Invalid number",
+    "phone": "Invalid phone",
+    "required": "Required field",
+    "search": "Invalid search",
+    "verification": "Verification doesn't match",
+    "zip": "Invalid zip code"
+  }
+}
